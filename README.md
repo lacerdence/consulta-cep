@@ -12,9 +12,15 @@ The CEP is a numeric code used in Brazil to identify addresses and facilitate th
 ## Back end
 Prerequisites: Java 23
 
-# Methods
+## Dependencies
 
-# Author
+- Gson
+- Apache HttpClient
+
+## Use
+
+Pass the CEP code into the Main class, as a parameter on the getEndereco method.
+
 
 Antonio Vinnicius Lacerda
 
