@@ -9,7 +9,7 @@ The CEP is a numeric code used in Brazil to identify addresses and facilitate th
 - Java
 - Maven
 
-## Back end
+## Requirements
 Prerequisites: Java 23
 
 ## Dependencies
